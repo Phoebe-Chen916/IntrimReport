@@ -12,7 +12,7 @@ MNIST 數據集（Mixed National Institute of Standards and Technology database�
 <h4>構件模型<h4/>
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-22%20221948.png">
 <h4>訓練集<h4/>
-<img src="">  
+<img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%A8%93%E7%B7%B4%E9%9B%86.png">  
 <h4>測試集<h4/>
 <img src="">
 <h4>識別函數代碼<h4/>
