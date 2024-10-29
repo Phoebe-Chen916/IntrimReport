@@ -22,4 +22,4 @@ MNIST 數據集（Mixed National Institute of Standards and Technology database�
 <h4>上傳識別檔案<h4/>
 <img src="">
 <h4>結果<h4/>
-<img src="">
+<img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E7%B5%90%E6%9E%9C.png">
