@@ -10,4 +10,4 @@ MNIST 數據集（Mixed National Institute of Standards and Technology database�
 <h4>導入Python庫<h4/>
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-22%20220719.png">
 <h4>構件模型<h4/>
-<ifrm src="">
+<img src="">
