@@ -19,5 +19,7 @@ MNIST 數據集（Mixed National Institute of Standards and Technology database�
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%AD%98%E5%88%A5%E5%87%BD%E6%95%B8%E4%BB%A3%E7%A2%BC.png">
 <h4>主函數<h4/>
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-29%20205149.png">
+<h4>手寫檔案<h4/>
+<img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-29%20205429.png">
 <h4>結果<h4/>
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-29%20204648.png">
