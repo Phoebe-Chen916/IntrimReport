@@ -16,7 +16,7 @@ MNIST 數據集（Mixed National Institute of Standards and Technology database�
 <h4>測試集<h4/>
 <img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E6%B8%AC%E8%A9%A6%E9%9B%86.png">
 <h4>識別函數代碼<h4/>
-<img src="">
+<img src="https://github.com/Phoebe-Chen916/IntrimReport/blob/main/%E8%AD%98%E5%88%A5%E5%87%BD%E6%95%B8%E4%BB%A3%E7%A2%BC.png">
 <h4>主函數<h4/>
 <img src="">
 <h4>上傳識別檔案<h4/>
